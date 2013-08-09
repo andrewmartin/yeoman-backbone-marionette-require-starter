@@ -1,0 +1,3 @@
+[submodule "app/bootstrap-sass"]
+	path = app/bootstrap-sass
+	url = git@github.com:thomas-mcdonald/bootstrap-sass.git
