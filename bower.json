@@ -1,0 +1,15 @@
+{
+  "name": "coffee-backbone-require-bootstrap",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.0",
+    "underscore": "~1.4.3",
+    "backbone": "~1.0.0",
+    "backbone.marionette": "~1.0.4",
+    "requirejs": "~2.1.4",
+    "requirejs-text": "~2.0.5",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1"
+  },
+  "devDependencies": {}
+}
